@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{1C320163-C7A2-4073-B222-4023FE89DC2E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MovieManiacs/Views/SearchMovieResultPage.cs">
+    <Files>
+      <File FileName="MovieManiacs/Views/SearchMovieResultPage.cs" Line="12" Column="43" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MovieManiacs.Droid PreferredExecutionTarget="Android.b685c8e1" />
+  <MultiItemStartupConfigurations />
+</Properties>
